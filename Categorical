@@ -1,0 +1,16 @@
+@relation class 
+ 
+@attribute sroll numeric 
+@attribute sname {Shameem, Nizam, Shafiq, Shalini, Shafika, Harini, Keerthana} 
+@attribute sregister numeric 
+@attribute sgender {male, female} 
+@attribute sage {19, 20, 21, 22} 
+@data 
+ 
+8201, Shameem, 001, male, 21 
+8202, Nizam, 002, male, 19 
+8203, Shafiq, 003, male, 20 
+8204, Shalini, 004, female, 20 
+8205, Shafika, 005, female, 21 
+8206, Harini, 006, female, 22 
+8207, Keerthana, 007, female, 19 
