@@ -1,0 +1,11 @@
+@relation employee 
+@attribute eid numeric 
+@attribute ename {Fahad, Balaji, Shakeel, Nisha, Priya} 
+@attribute esalary numeric 
+@attribute egender {male, female} 
+@data 
+01, Fahad, 60000, male 
+02, Balaji, 50000, male 
+03, Shakeel, 40000, male 
+04, Nisha, 300000, female 
+05, Priya, 20000, female 
