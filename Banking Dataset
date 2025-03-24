@@ -1,0 +1,12 @@
+@relation bank 
+@attribute accno {01, 02, 03, 04, 05} 
+@attribute cust {male,female} 
+@attribute bankname {sbi,hdfc,sbh,ab,rbi} 
+@attribute location {hyd,jmd,antp,pdtr,kdp} 
+@attribute deposit {yes,no} 
+@data 
+01, male, sbi, hyd, yes 
+02, male, hdfc, jmd, no 
+03, male, sbh, antp, yes 
+04, female, ab, pdtr, yes 
+05, female, sbi, jmd, no 
